@@ -1,0 +1,30 @@
+.a1 {
+    color: white;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "微软雅黑";
+    line-height: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main {
+    text-align: center;
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+.img-fluid {
+    height: auto;
+    width: 100%;
+}
+#footer>div>p{
+    text-align: center;
+    font-size: 12px;
+    margin: 0;
+}
